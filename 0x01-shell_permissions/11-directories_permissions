@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod uga+x,X 
+chmod uga+xX 
